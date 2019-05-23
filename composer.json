@@ -1,5 +1,6 @@
 {
-  "name": "iripvanwinkle/yii2-multi-select",
+  "name": "tkutsaeva/yii2-multi-select",
+  "replace":"iripvanwinkle/yii2-multi-select",
   "description": "Multiselect Bootstrap widget for Yii2.",
   "keywords": [
     "yii",
