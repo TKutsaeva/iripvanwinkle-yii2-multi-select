@@ -1,4 +1,4 @@
-MultiSelect Widget for Yii2
+MultiSelect Widget for Yii2 (copy of iripvanwinkle's repo)
 ==============================
 
 Renders a [MultiSelect Bootstrap plugin](http://davidstutz.github.io/bootstrap-multiselect) widget.
