@@ -10,14 +10,14 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require iripvanwinkle/yii2-multi-select "*"
-//or: composer require iripvanwinkle/yii2-multi-select "*"
+php composer.phar require tkutsaeva/yii2-multi-select "dev-master"
+//or: composer require tkutsaeva/yii2-multi-select "dev-master"
 ```
 
 or add
 
 ```json
-"iripvanwinkle/yii2-multi-select" : "*"
+"tkutsaeva/yii2-multi-select" : "dev-master"
 ```
 
 to the require section of your application's `composer.json` file.
